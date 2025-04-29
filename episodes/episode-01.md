@@ -1,3 +1,12 @@
 # Episode 1: SELECT * – Your First SQL Query
+---
 
-_TikTok-style script placeholder._
+🎬 **Title:**  
+SELECT * — Pull Every Column from a Table
+
+---
+
+🎤 **Opening Line:**  
+"Today we're starting simple — how to select *everything* from a table using `SELECT *`."
+
+---
