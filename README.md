@@ -38,6 +38,26 @@ Whether you're brand new to SQL or just brushing up, these bite-sized lessons co
 
 ---
 
+
+## 📦 Sample Data
+
+This series uses the [AdventureWorks (LT)](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) schema — mainly the following tables:
+
+- `SalesLT.Product`
+- `SalesLT.SalesOrderDetail`
+- `SalesLT.SalesOrderHeader`
+
+To replicate the demos locally, you can:
+- Import the full AdventureWorksLT sample database into SQL Server
+- Or use the simplified sample records below:
+
+See [`sample_data.sql`](./sample_data.sql) for example records used in Episodes 1–20.
+
+
+
+
+
+
 ## 🧠 Bonus Resources
 
 - [Clauses vs Keywords vs Functions](reference/clauses-vs-keywords-vs-functions.md)
