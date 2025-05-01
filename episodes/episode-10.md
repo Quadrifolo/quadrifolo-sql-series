@@ -1,3 +1,21 @@
-# Episode 10: HAVING – Filter Groups
+# Episode 10: IS NULL — Finding Missing Values
 
-_TikTok-style script placeholder._
+---
+
+🎬 **Title:**  
+Check for Missing Data with `IS NULL`
+
+---
+
+🎤 **Opening Line:**  
+"Let’s find rows where data is missing — this is where `IS NULL` comes in."
+
+---
+
+🧠 **Typing + Speaking Flow:**
+
+- **Type:**  
+  ```sql
+  SELECT Name  
+  FROM SalesLT.Product  
+  WHERE Color IS NULL;
