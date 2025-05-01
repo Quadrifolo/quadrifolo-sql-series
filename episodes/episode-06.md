@@ -1,3 +1,21 @@
-# Episode 6: Filtering with IN and BETWEEN
+# Episode 6: TOP (Limit Results in SQL Server)
 
-_TikTok-style script placeholder._
+---
+
+🎬 **Title:**  
+Show Only the First Few Results with `TOP`
+
+---
+
+🎤 **Opening Line:**  
+"Need to grab the first 5 results? In SQL Server, use `TOP`."
+
+---
+
+🧠 **Typing + Speaking Flow:**
+
+- **Type:**  
+  ```sql
+  SELECT TOP 5 Name, ListPrice  
+  FROM SalesLT.Product  
+  ORDER BY ListPrice DESC;
