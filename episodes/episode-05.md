@@ -1,3 +1,21 @@
-# Episode 5: Using WHERE with Greater Than / Less Than
+# Episode 5: ORDER BY (Sorting Results)
 
-_TikTok-style script placeholder._
+---
+
+🎬 **Title:**  
+Sort Your SQL Results with `ORDER BY`
+
+---
+
+🎤 **Opening Line:**  
+"Want to see your results from highest to lowest or A to Z? That’s what `ORDER BY` is for."
+
+---
+
+🧠 **Typing + Speaking Flow:**
+
+- **Type:**  
+  ```sql
+  SELECT Name, ListPrice  
+  FROM SalesLT.Product  
+  ORDER BY ListPrice DESC;
