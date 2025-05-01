@@ -9,7 +9,6 @@ Whether you're brand new to SQL or just brushing up, these bite-sized lessons co
 ## 📺 Watch the Series
 
 - TikTok: [@quadrifolo](https://www.tiktok.com/@quadrifolo)
-- YouTube Playlist: [SQL in 20 Bites](https://youtube.com/playlistlink)
 
 ---
 
